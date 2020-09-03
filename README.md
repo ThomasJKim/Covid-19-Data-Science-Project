@@ -3,8 +3,8 @@ Using data collected using survey responses on questions regarding life satisfac
 
 The questions from the survey were renamed to the variables on the left and variables with multiple choice responses like hobbies were split up even more later in the code. 
 
-time       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Timestamp\
-gender    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;   | What is your gender?\
+time       &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Timestamp\
+gender    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;   | What is your gender?\
 ls_before    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Generally, how would you say you felt about life BEFORE the impacts the pandemic and social distancing?\
 ls_after    &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Generally, how would you say you felt about life DURING the impacts the pandemic and social distancing?\
 affected    &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Did anyone you know (including yourself) get seriously affected by the COVID-19 Virus in which it brought great stress to your life?\
