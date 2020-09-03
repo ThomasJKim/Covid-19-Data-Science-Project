@@ -7,7 +7,6 @@ time       &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | 
 gender    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;   | What is your gender?\
 ls_before     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Generally, how would you say you felt about life BEFORE the impacts the pandemic and social distancing?\
 ls_after    &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Generally, how would you say you felt about life DURING the impacts the pandemic and social distancing?\
-affected    &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Did anyone you know (including yourself) get seriously affected by the COVID-19 Virus in which it brought great stress to your life?\
 lost_job   &nbsp;     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Did you lose your job during this pandemic? (And you are still unemployed)\
 work_method   &nbsp; | If you worked through this pandemic, what was your main method of work? Select N/A if you did not work\
 residents     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Who did you live with during this pandemic?\
@@ -17,5 +16,6 @@ sleep_time     &nbsp; &nbsp; &nbsp;  | Using this scale, where one bubble is one
 importance   &nbsp; &nbsp; | Which areas of life are highly important to you?\
 hobbies     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |What were your main hobbies during the pandemic? (Hobbies you spend around 3-4+ hours doing a week)\
 news       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |Do you keep up to date with current events and news?\
+affected    &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Did anyone you know (including yourself) get seriously affected by the COVID-19 Virus in which it brought great stress to your life?\
 
 sample_bias   (Not used in feeature variables) |  This question is completely optional and will only be used to more accurately understand any sampling bias at play. How did you hear of this survey? (i.e. Tom's instagram story)
