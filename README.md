@@ -16,6 +16,6 @@ sleep_time     &nbsp; &nbsp; &nbsp;  | Using this scale, where one bubble is one
 importance   &nbsp; &nbsp; | Which areas of life are highly important to you?\
 hobbies     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |What were your main hobbies during the pandemic? (Hobbies you spend around 3-4+ hours doing a week)\
 news       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |Do you keep up to date with current events and news?\
-affected    &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Did anyone you know (including yourself) get seriously affected by the COVID-19 Virus in which it brought great stress to your life?\
+affected    &nbsp; &nbsp; &nbsp; &nbsp;  | Did anyone you know (including yourself) get seriously affected by the COVID-19 Virus in which it brought great stress to your life?
 
 sample_bias   (Not used in feeature variables) |  This question is completely optional and will only be used to more accurately understand any sampling bias at play. How did you hear of this survey? (i.e. Tom's instagram story)
